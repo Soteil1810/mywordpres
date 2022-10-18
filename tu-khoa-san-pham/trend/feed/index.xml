@@ -12,13 +12,13 @@
 	<atom:link href="https://soteil1810.github.io/mywordpres/tu-khoa-san-pham/trend/feed/" rel="self" type="application/rss+xml" />
 	<link>https://soteil1810.github.io/mywordpres</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 13:39:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 09:03:23 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Impression</title>
 		<link>https://soteil1810.github.io/mywordpres/san-pham/impression/</link>
